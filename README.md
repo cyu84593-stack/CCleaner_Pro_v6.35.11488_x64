@@ -1,1 +1,1 @@
-# CCleaner_Pro_v6.35.11488_x64
+# CCleaner_Pro_v6.35.11488
